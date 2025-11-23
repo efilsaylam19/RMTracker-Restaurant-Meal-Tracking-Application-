@@ -1,0 +1,10 @@
+1 Pizza 120.00 1 Available
+2 Pasta 95.00 20 Available
+3 Sushi 180.00 30 Available
+4 Burger 115.00 20 Not_Available
+5 Tacos 85.00 18 Available
+6 Ramen 100.00 22 Available
+7 Lasagna 130.00 35 Available
+8 Fried_Chicken 90.00 20 Available
+9 Caesar_Salad 70.00 10 Available
+10 Fish_and_Chips 105.00 25 Available
